@@ -4,10 +4,15 @@ Dataset
 The dataset used for this task is world_population_dataset. This dataset contains records of population from the year 1995 to 2023
 
 Tools and Libraries used
-  Jupyter notebook
-  Pandas
-  Numpy
-  Matplotlip & Seaborn for visualization
+
+Jupyter notebook
+  
+Pandas
+  
+Numpy
+  
+Matplotlip & Seaborn for visualization
+  
 Exploratory Data Analysis (EDA)
 During the EDA process, I performed the following steps:
 
